@@ -1,1 +1,1 @@
-git@github.com:DenisGraffDenCorp/posmotri-v-okno-ad.git
+git@github.com:DenisGraffDenCorp/posmotri-v-okno-ad.git  
